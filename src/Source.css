@@ -1,7 +1,8 @@
 .Footer a {
-  color: rgb(124, 135, 116);
+  color: rgb(0, 123, 255);
   text-decoration: none;
 }
 .Footer {
   font-size: 16px;
+  color: black;
 }

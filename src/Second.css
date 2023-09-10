@@ -1,0 +1,15 @@
+.nineteenth {
+  font-size: 68px;
+  color: black;
+  position: relative;
+  left: 5px;
+}
+.both-measures {
+  position: relative;
+  left: 10px;
+  bottom: 40px;
+}
+a {
+  text-decoration: none;
+  color: rgb(45, 129, 254);
+}
