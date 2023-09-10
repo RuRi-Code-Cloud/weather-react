@@ -4,7 +4,7 @@ import { ColorRing } from "react-loader-spinner";
 
 export default function Weather(props) {
   function showResponse(response) {
-    alert(
+    console.log(
       `Hello from ${response.data.name} it is ${response.data.main.temp} °C`
     );
   }
