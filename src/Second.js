@@ -6,7 +6,7 @@ export default function Second() {
         19
       </span>
       <span className="both-measures">
-        <a href="#" id="celsius">
+        <a href="/" id="celsius">
           °C{" "}
         </a>
       </span>
